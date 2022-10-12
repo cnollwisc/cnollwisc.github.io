@@ -1,0 +1,58 @@
+
+.head1 {
+    font: size 40px;
+    color: rgb(187, 118, 207)
+    ;font-weight: bold;
+}
+.head2 {
+    font: size 17px;
+    ;margin: left 10px;
+    margin: bottom 15px;
+}
+body {
+    margin: 0 auto;
+    background-position: center;
+    background-size: contain;
+}
+.menu {
+    position: sticky;
+    top: 0;
+    background-color: rgb(248, 151, 224);
+    padding: 10px 0px 10px 0px;
+    color: rgb(9, 9, 9);
+    margin: 0 auto;
+    overflow: hidden;
+}
+.menu a {
+    float: left;
+    color:rgb(3, 2, 3);
+    text-align:center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+footer {
+    width: 100%;
+    bottom: 0px;
+    background-color: antiquewhite;
+    position: absolute;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+#travel {
+    margin-left:40rem;
+    margin-right: 5rem;
+}
+
+#ski { margin-left:30rem;
+    margin-right: 8rem;} 
+
+#skipic {float: left;}
+
+#travelpic {float: left;}
+
+#travelpic2 {float: left; margin-left:2rem;}
